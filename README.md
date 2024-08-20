@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome Kaique paulino de oliveira rosa
+Meu nome e Kaique paulino de oliveira rosa
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
